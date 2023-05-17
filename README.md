@@ -10,9 +10,11 @@ As AI technology becomes more advanced and more prevalent in our daily lives, we
 
 - Recipe Generation: Leverages OpenAI's GPT-4 API to generate recipes based on the ingredients available in your kitchen.
 - Smart Shopping List: Automatically generates a shopping list based on the ingredients required for generated recipes.
-- Customizable Preferences: Allows users to define their dietary preferences and needs.
+- Fully Customisable Preferences: Allows users to define their dietary preferences and needs.
 - Modularity: Ability to use open-source LLMs as an alternative to GPT-4 for recipe generation.
 - Interoperability: Compatible with a range of existing platforms, IoT devices and smart home systems. 
+
+
 
 ## How to Get Involved
 
