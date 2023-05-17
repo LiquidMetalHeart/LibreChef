@@ -13,7 +13,7 @@ As AI technology becomes more advanced and more prevalent in our daily lives, we
 - Fully Customisable Preferences: Allows users to define their dietary preferences and needs.
 - Modularity: Ability to use open-source LLMs as an alternative to GPT-4 for recipe generation.
 - Interoperability: Compatible with a range of existing platforms, IoT devices and smart home systems. 
-
+- Hardware (long term): Smart sensor containers that can be added to an existing kitchen environment and automatically detect ingredients to feed data to LibreChef without manual user entry.
 
 
 ## How to Get Involved
